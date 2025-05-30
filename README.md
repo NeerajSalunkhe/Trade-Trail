@@ -139,17 +139,4 @@ PORT
 - **MongoDB** (as Database)
 - **Ollama AI**
 
-## 🔗 Contributors
 
-- **Aarya Kotalwar** - [GitHub](https://github.com/Aaryakotalwar)
-- **Anjali Tiwari** - [GitHub](https://github.com/Anjali-2807)
-- **Leshya Jain** - [GitHub](https://github.com/Leshya09)
-- **Nikki Gautam** - [GitHub](https://github.com/nix-per)
-
-## Mentor
-
-**Priyanshu Gupta** - [Github](https://github.com/wsLord)
-
-## Feedback
-
-Let us know if you need any modifications! 🚀
